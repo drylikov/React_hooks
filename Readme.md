@@ -1,4 +1,3 @@
-
 # React hooks.
 
 Silly little component to fire off actions in stateless components.
