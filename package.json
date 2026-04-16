@@ -1,0 +1,26 @@
+
+{
+  "name": "react_hooks",
+  "version": "1.0.1",
+  "description": "React stateless lifecycle hooks",
+  "author": "Denis Rylikov <denis.rylikov@protonmail.com>",
+  "main": "build/index.js",
+  "license": "MIT",
+  "scripts": {
+    "prepublish": "make build"
+  },
+  "keywords": [],
+  "browserify": {
+    "transform": [
+      "babelify"
+    ]
+  },
+  "devDependencies": {
+    "axios": "^0.14.0",
+    "react-fatigue-dev": ""
+  },
+  "dependencies": {},
+  "files": [
+    "build"
+  ]
+}
