@@ -5,7 +5,7 @@ Silly little component to fire off actions in stateless components.
 ## Installation
 
 ```
-$ npm install react-hooks
+$ npm install react_hooks
 ```
 
 ## Developing
